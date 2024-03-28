@@ -15,5 +15,5 @@ I'm a Software Engineer, Driven by a desire to create impactful digital experien
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuccessEnehikhuere&show_icons=true&include_all_commits=true&hide_border=true" alt="SuccessEnehikhuere's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuccessEnehikhuere&langs_count=8&layout=compact&hide_border=true" alt="SuccessEnehikhuere's GitHub stats" /> |
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuccessEnehikhuere&langs_count=8&layout=compact&hide_border=true" alt="SuccessEnehikhuere's GitHub stats" /> |
 | ------------- | ------------- |
